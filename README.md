@@ -8,7 +8,9 @@ A három felirat közül az egyik igaz míg a többi nem.
 ## FELIRATOK ÉS LÁDA SZÍN:
 
 Arany: "Én rejtem a kincset" -> nem igaz
+
 Ezüst: "Nem én rejtem" -> ez rejti/ nem igaz
+
 Bronz: "Az arany láda hazudik" -> ez igaz
 
 ## Specifikációk 
