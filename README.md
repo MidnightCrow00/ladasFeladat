@@ -11,7 +11,7 @@ Arany: "Én rejtem a kincset" -> nem igaz
 Ezüst: "Nem én rejtem" -> ez rejti/ nem igaz
 Bronz: "Az arany láda hazudik" -> ez igaz
 
-##
+## Specifikációk 
 /*
 Class Lada
  string szin
