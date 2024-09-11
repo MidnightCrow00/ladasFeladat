@@ -14,18 +14,9 @@ Ezüst: "Nem én rejtem" -> nem igaz -> ebben van a kincs
 Bronz: "Az arany láda hazudik" -> ez igaz
 
 ## Specifikációk 
-/*
-Class Lada
- string szin
- string felirat
 
+Választ! gomb -> Kattintásra felugró ablakban jelzi, hogy benne van-e a kincs vagy nem.
 
-Class Program
- boolean kincs
-
-  void Program()
-  void Program(kincs)
-  */
   
   
  
